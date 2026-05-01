@@ -1,3 +1,5 @@
+# I HAVE MIGRATED TO [CODEBERG](https://codeberg.org/notafoe/Palsa)
+
 <img src=assets/palsa/icon.png width="300" height="300"/>
 
 # Development paused indefinitely, currently working on a personal private project. If anyone would like to create some PRs to improve this go ahead!!!
